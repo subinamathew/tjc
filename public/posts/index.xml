@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Jacobs Consulting</title>
+    <link>https://1313-debug-subinamathew-tjc-vyu8pl2e45k.ws-eu116.gitpod.io/posts/</link>
+    <description>Recent content in Posts on The Jacobs Consulting</description>
+    <generator>Hugo</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sun, 08 Sep 2024 19:15:18 +0000</lastBuildDate>
+    <atom:link href="https://1313-debug-subinamathew-tjc-vyu8pl2e45k.ws-eu116.gitpod.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://1313-debug-subinamathew-tjc-vyu8pl2e45k.ws-eu116.gitpod.io/posts/about/</link>
+      <pubDate>Sun, 08 Sep 2024 19:15:18 +0000</pubDate>
+      <guid>https://1313-debug-subinamathew-tjc-vyu8pl2e45k.ws-eu116.gitpod.io/posts/about/</guid>
+      <description>About </description>
+    </item>
+  </channel>
+</rss>
